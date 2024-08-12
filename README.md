@@ -39,7 +39,8 @@ This is a basic Spring Boot application designed to manage students and subjects
 
    ```bash
    git clone https://github.com/yourusername/student-subject-management.git
-   cd student-subject-management
+
+cd student-subject-management
 
 2. Configure Database
 
@@ -81,8 +82,7 @@ Below are the instructions to test the Admin-related endpoints in the Student-Su
        }
      ]
    }
-
-    ```
+   ```
 - **Response**: `200 OK` with the created admin in JSON format.
 
 ### 2. Get All Students

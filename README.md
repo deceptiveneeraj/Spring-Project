@@ -125,7 +125,7 @@ Below are the instructions to test the Admin-related endpoints in the Student-Su
     ```
 - **Response**: `200 OK` with the updated admin in JSON format.
 
-### 5. Delete Admin
+### 5. Delete Students
 
 - **URL**: `http://localhost:8080/students/delete/{id}`
 - **Method**: `DELETE`
